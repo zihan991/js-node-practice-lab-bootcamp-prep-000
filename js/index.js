@@ -7,4 +7,4 @@ console.log("Name:");
 console.log(name);
 
 console.log("Height:");
-console.log(perselnt(height)+20);
+console.log(height)+1);
